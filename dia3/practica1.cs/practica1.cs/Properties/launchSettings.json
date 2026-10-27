@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "practica1.cs": {
+      "commandName": "Project",
+      "debugEngines": "managed"
+    }
+  }
+}
